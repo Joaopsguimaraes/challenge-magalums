@@ -37,14 +37,6 @@ Deve ter um endpoint que receba uma solicitação de agendamento de envio de com
   - Siga o que considera como boas práticas de programação.
   - A criação do banco e das tabelas fica a seu critério de como será feita, seja via script, aplicação, etc.
 
-
-## Desafio
-- Confira o enunciado completo, [clicando aqui](./problem.md).
-
-## Como interagir com o banco de dados?
-- Utilizamos o [Beekeeper Community](https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v4.1.13)
-
-
 ## Tecnologias utilizadas
 
 * Java 21
